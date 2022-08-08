@@ -1,0 +1,19 @@
+mainform.h -> panel, m, exponent, b, text 1 2 and 3, go button
+graphingcalculator.h
+
+mainform has 20 lines on the panel to draw the graph
+
+form size of 500x500, nonresizable, and a go button too
+
+graphing calculator:
+-we need an array with 21 spots, a double array to be exact
+-double points[21] = new double[]; //something like this???
+-calculatepoints uses y=mx+b to find the points
+
+0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21 //20 lines are here <---
+
+-setpoints
+-getpoints
+-drawpoints
+
+should be pretty simple to put together
