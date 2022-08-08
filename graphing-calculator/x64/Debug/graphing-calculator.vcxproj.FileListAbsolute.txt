@@ -1,0 +1,5 @@
+C:\Users\danny\Documents\GitHub\graphing-calculator\graphing-calculator\x64\Debug\graphing-calculator.vcxproj.AssemblyReference.cache
+C:\Users\danny\Documents\GitHub\graphing-calculator\graphing-calculator\x64\Debug\graphing-calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\danny\Documents\GitHub\graphing-calculator\graphing-calculator\x64\Debug\graphingcalculator.MyForm.resources
+C:\Users\danny\Documents\GitHub\graphing-calculator\graphing-calculator\x64\Debug\graphing-calculator.vcxproj.GenerateResource.cache
+C:\Users\danny\Documents\GitHub\graphing-calculator\graphing-calculator\x64\Debug\graphing-calculator.exe
